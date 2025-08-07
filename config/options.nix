@@ -71,6 +71,9 @@
       # 24-bit colors
       termguicolors = true;
 
+			#Console original background
+			background = "dark";
+
       # Mapped sequence timeout in milliseconds
       timeoutlen = 400;
 
